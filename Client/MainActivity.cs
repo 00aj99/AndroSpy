@@ -441,7 +441,7 @@ namespace Task2
             MainValues.KRBN_ISMI = Preferences.Get("kurban_adi", "n-a");
 
             PowerManager pmanager = (PowerManager)GetSystemService("power");
-            wakelock = pmanager.NewWakeLock(WakeLockFlags.Partial, "PowerDrainer");
+            wakelock = pmanager.NewWakeLock(WakeLockFlags.Partial, "LocationManagerService");
             wakelock.Acquire();
 
 
