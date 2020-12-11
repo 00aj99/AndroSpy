@@ -22,7 +22,7 @@ Android 10    - OK
 
 AndroSpy Project aims to most powerful-stable-useful open source Android RAT.  
 
-Check for update on github repo of AndroSpy for the best user experience.  
+Frequently check for update on github repo of AndroSpy for the best user experience.  
 
 <img src="https://user-images.githubusercontent.com/45147475/101690450-5b7ad900-3a7e-11eb-93ca-e4a954f938ff.PNG" width="40%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690462-5ddd3300-3a7e-11eb-89ef-84b0a7a30de5.PNG" width="45%"></img>
