@@ -24,6 +24,8 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 
 Frequently check for update on github repo of AndroSpy for the best user experience.  
 
+For Huawei and other EMUI devices, read this article: https://dontkillmyapp.com/huawei I added the code suggestion for developers to our Client; wakelock tag: "LocationManagerService"  
+
 <img src="https://user-images.githubusercontent.com/45147475/101690450-5b7ad900-3a7e-11eb-93ca-e4a954f938ff.PNG" width="40%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690462-5ddd3300-3a7e-11eb-89ef-84b0a7a30de5.PNG" width="45%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690469-5fa6f680-3a7e-11eb-94b7-b1064253bdb7.PNG" width="40%"></img>
