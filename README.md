@@ -28,13 +28,12 @@ Check for update on github repo of AndroSpy for the best user experience.
 <img src="https://user-images.githubusercontent.com/45147475/101690462-5ddd3300-3a7e-11eb-89ef-84b0a7a30de5.PNG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690469-5fa6f680-3a7e-11eb-94b7-b1064253bdb7.PNG" width="45%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690479-6170ba00-3a7e-11eb-938c-29b0e6a3482a.PNG" width="45%"></img>
-<img src="https://user-images.githubusercontent.com/45147475/101690443-59187f00-3a7e-11eb-9321-1ffb457cb6ab.PNG" width="35%"></img>  
-<img src="https://user-images.githubusercontent.com/45147475/101881912-2d90b400-3ba6-11eb-8f21-54df9caf0d6f.PNG" width="35%"></img> 
+<img src="https://user-images.githubusercontent.com/45147475/101690443-59187f00-3a7e-11eb-9321-1ffb457cb6ab.PNG" width="35%"></img>  <img src="https://user-images.githubusercontent.com/45147475/101881912-2d90b400-3ba6-11eb-8f21-54df9caf0d6f.PNG" width="35%"></img> 
 <img src="https://user-images.githubusercontent.com/45147475/101283748-83074280-37ed-11eb-94ff-3a508a0413c0.png" width="45%"></img>
 
 # Update December 2020 on Version 3  
 
-+Added "Detailed Infos" tab in the Status of Phone Window, you can see; dtailed IMEI, SIM Infos and more..
++Added "Detailed Infos" tab in the Status of Phone Window, you can see; dtailed IMEI, SIM Infos and more..  
 +High CPU usage problem fixed that has caused when device didn't have Internet.
 +Focus Mode on Live Camera is now choose of User.  
 +Added Live Screen (MediaProjection API has been available since API Level 21, for more: https://developer.android.com/reference/android/media/projection/MediaProjection  
