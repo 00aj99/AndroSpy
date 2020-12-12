@@ -35,6 +35,7 @@ For Huawei and other EMUI devices, read this article: https://dontkillmyapp.com/
 
 # Update December 2020 on Version 3  
 
++WakeLock power usage optimized; our client uses as little battery as possible
 +Added "Detailed Infos" tab in the Status of Phone Window, you can see; detailed IMEI, SIM Infos and more..  
 +High CPU usage problem fixed that has caused when device didn't have Internet.  
 +Focus Mode on Live Camera is now choose of User.  
