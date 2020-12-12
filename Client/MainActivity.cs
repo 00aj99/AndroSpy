@@ -442,6 +442,7 @@ namespace Task2
 
             PowerManager pmanager = (PowerManager)GetSystemService("power");
             wakelock = pmanager.NewWakeLock(WakeLockFlags.Partial, "LocationManagerService");
+            wakelock.SetReferenceCounted(true);
             wakelock.Acquire();
 
 
